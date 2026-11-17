@@ -1,6 +1,6 @@
 {
   "name": "MadU8g2",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Full-frame monochrome OLED adapters using U8g2",
   "frameworks": "arduino",
   "platforms": "*",
