@@ -1,0 +1,26 @@
+{
+  "name": "MadU8g2",
+  "version": "0.2.0",
+  "description": "Full-frame monochrome OLED adapters using U8g2",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "MadDisplay": "https://github.com/Astonikum/display-lib.git#v0.7.0",
+    "olikraus/U8g2": "^2.36.0",
+    "MadDisplayAdapters": "https://github.com/Astonikum/adapter-common-lib.git#v0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Astonikum/u8g2-lib.git"
+  },
+  "homepage": "https://github.com/Astonikum/u8g2-lib",
+  "authors": [
+    {
+      "name": "Astonikum",
+      "url": "https://github.com/Astonikum"
+    }
+  ],
+  "build": {
+    "includeDir": "src"
+  }
+}
